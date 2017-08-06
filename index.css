@@ -18,9 +18,11 @@ body{
 
 .box{
   background-color: #F4D03F;
-  height: 300px;
-  width: 500px;
+  position: absolute;
   left: 1000px;
   top: 550px;
+  height: 300px;
+  width: 500px;
+  
 }
  

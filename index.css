@@ -3,6 +3,8 @@ body{
  }
 
 #content{
+  height: 500px;
+  width: 250px;
   font-family: "Courier New";
   border-style: double;
 }

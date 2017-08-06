@@ -13,5 +13,8 @@ body{
   border-style: solid;
   border-width: 6px;
 }
- 
+
+.waves{
+  z-index: -1
+}
  

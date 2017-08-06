@@ -15,7 +15,8 @@ body{
   border-spacing: 5px;
 }
 
-.waves{
+.box{
+  background-color: #F4D03F;
   left: 500px;
   top: 250px;
   z-index: -1

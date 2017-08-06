@@ -12,9 +12,12 @@ body{
   font-style: bold;
   border-style: solid;
   border-width: 6px;
+  border-spacing: 5px;
 }
 
 .waves{
+  left: 500px;
+  top: 250px;
   z-index: -1
 }
  
